@@ -1,2 +1,1 @@
-"# ML4T" 
-"# ML4T" 
+Machine learning applications in trading
